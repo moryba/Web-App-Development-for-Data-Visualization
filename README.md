@@ -1,6 +1,7 @@
 # Web App Development for Data Visualization
 
 This repository contains the files that I used to develop an intereactive Web Application for Data Visualization.
+
 The link of my webapp: https://moryba-webapp.herokuapp.com/.
 
 ## Languages used to develop the Web App:
