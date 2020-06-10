@@ -10,8 +10,8 @@ The link of my webapp: https://moryba-webapp.herokuapp.com/.
 
 # Python Libraries used:
 ```python
- -Pandas
- -Plotly
+ - Pandas
+ - Plotly
 ```
 # Web framework used:
 - Flask
