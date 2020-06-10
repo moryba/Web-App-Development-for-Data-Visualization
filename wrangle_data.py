@@ -1,8 +1,7 @@
 import pandas as pd
 import plotly.graph_objs as go
 
-# Use this file to read in your data and prepare the plotly visualizations. The path to the data files are in
-# `data/file_name.csv`
+
 
 def return_figures():
     """Creates four plotly visualizations
@@ -15,8 +14,7 @@ def return_figures():
 
     """
 
-    # first chart plots arable land from 1990 to 2015 in top 10 economies 
-    # as a line chart
+
     
     graph_one = []    
     graph_one.append(
@@ -31,8 +29,7 @@ def return_figures():
                 xaxis = dict(title = 'x-axis label'),
                 yaxis = dict(title = 'y-axis label'),
                 )
-
-# second chart plots ararble land for 2015 as a bar chart    
+  
     graph_two = []
 
     graph_two.append(
@@ -48,7 +45,6 @@ def return_figures():
                 )
 
 
-# third chart plots percent of population that is rural from 1990 to 2015
     graph_three = []
     graph_three.append(
       go.Scatter(
@@ -62,8 +58,7 @@ def return_figures():
                 xaxis = dict(title = 'x-axis label'),
                 yaxis = dict(title = 'y-axis label')
                        )
-    
-# fourth chart shows rural population vs arable land
+
     graph_four = []
     
     graph_four.append(
