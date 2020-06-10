@@ -14,11 +14,11 @@ The link of my webapp: https://moryba-webapp.herokuapp.com/.
  -Plotly
 ```
 # Web framework used:
--Flask
+- Flask
 # Front-end framework used:
--Bootstrap
+- Bootstrap
 # Cloud Platform
--Heroku
+- Heroku
 
 # License
 
