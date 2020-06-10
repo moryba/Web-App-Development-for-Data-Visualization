@@ -17,7 +17,7 @@ The link of my webapp: https://moryba-webapp.herokuapp.com/.
 - Flask
 # Front-end framework used:
 - Bootstrap
-# Cloud Platform
+# Cloud Platform used for deployment: 
 - Heroku
 
 # License
