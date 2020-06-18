@@ -21,6 +21,9 @@ The link of my webapp: https://moryba-webapp.herokuapp.com/.
 ## Cloud Platform used for deployment: 
 - Heroku
 
+## Additional information
+- Additional information about the project can be found [here.](https://towardsdatascience.com/how-i-developed-my-web-app-for-data-visualization-with-python-93555ad83c2d) 
+
 ## License
 
 Copyright 2020  Papa Moryba Kouate
